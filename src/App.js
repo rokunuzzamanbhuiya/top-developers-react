@@ -6,7 +6,7 @@ import Footer from './components/Footer/Footer';
 function App() {
   return (
     <div>
-      <Header></Header>git add <div className=""></div>
+      <Header></Header>
       <Developer></Developer>
       <Footer></Footer>
     </div>
