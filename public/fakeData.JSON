@@ -119,7 +119,7 @@
     "email": "ian.reusch@example.com",
     "age": 52,
     "mobile": "+91328688",
-    "role": "Prgrammer",
+    "role": "Programmer",
     "salary": "8000",
     "picture": {
     "large": "https://randomuser.me/api/portraits/men/85.jpg",
@@ -167,7 +167,7 @@
     "email": "saadia.vanderbent@example.com",
     "age": 67,
     "mobile": "+91328690",
-    "role": "Prgrammer",
+    "role": "Programmer",
     "salary": "1000",
     "picture": {
     "large": "https://randomuser.me/api/portraits/women/77.jpg",
@@ -231,7 +231,7 @@
     "email": "pedro.velasco@example.com",
     "age": 67,
     "mobile": "+91328694",
-    "role": "Prgrammer",
+    "role": "Programmer",
     "salary": "5000",
     "picture": {
     "large": "https://randomuser.me/api/portraits/men/84.jpg",

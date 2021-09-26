@@ -36,7 +36,7 @@ const Header = () => {
                 <div className="border bg-info p-5">
                   <h1>Hire Top Developers For Your Projects.</h1>
                   <h4>You can hire our expert developrs. They are super skill for any kind of project.</h4>
-                  <h1>Total Budget: $100 Million.</h1>
+                  <h1>Total Budget: $800 Million.</h1>
                 </div>
             </div>
         </div>
