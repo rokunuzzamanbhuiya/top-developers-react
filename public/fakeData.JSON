@@ -1,0 +1,242 @@
+[
+    {
+    "gender": "female",
+    "name": "Josfine",
+    "key": 101,
+    "country": "Denmark",
+    "email": "josfine.andersen@example.com",
+    "age": 28,
+    "mobile": "+91328679",
+    "role": "Developer",
+    "salary": "1000",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/women/86.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/86.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/86.jpg"
+    }
+    },
+    {
+    "gender": "male",
+    "name": "Aubert",
+    "key": 102,
+    "country": "Japan",
+    "email": "malo.aubert@example.com",
+    "age": 43,
+    "mobile": "+91328680",
+    "role": "Programmer",
+    "salary": "2000",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/men/93.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/93.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/93.jpg"
+    }
+    },
+    {
+    "gender": "female",
+    "name": "Durand",
+    "key": 103,
+    "country": "France",
+    "email": "luna.durand@example.com",
+    "age": 29,
+    "mobile": "+91328682",
+    "role": "Engineer",
+    "salary": "3000",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/women/17.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/17.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/17.jpg"
+    }
+    },
+    {
+    "gender": "male",
+    "name": "Wagner",
+    "key": 104,
+    "country": "Pakistan",
+    "email": "max.wagner@example.com",
+    "age": 34,
+    "mobile": "+91328684",
+    "role": "Developer",
+    "salary": "4000",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/men/36.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/36.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/36.jpg"
+    }
+    },
+    {
+    "gender": "male",
+    "name": "Vosman",
+    "key": 105,
+    "country": "Japan",
+    "email": "mel.vosman@example.com",
+    "age": 36,
+    "mobile": "+91328685",
+    "salary": "5000",
+    "role": "Developer",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/men/44.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/44.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/44.jpg"
+    }
+    },
+    {
+    "gender": "female",
+    "name": "Olivia",
+    "key": 106,
+    "country": "Finland",
+    "email": "olivia.keto@example.com",
+    "age": 58,
+    "mobile": "+91328686",
+    "role": "Programmer",
+    "salary": "6000",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/women/37.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/37.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/37.jpg"
+    }
+    },
+    {
+    "gender": "female",
+    "name": "Babacan",
+    "key": 107,
+    "country": "Turkey",
+    "email": "ayse.babacan@example.com",
+    "age": 42,
+    "mobile": "+91328687",
+    "role": "Engineer",
+    "salary": "7000",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/women/5.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
+    }
+    },
+    {
+    "gender": "male",
+    "name": "Reusch",
+    "key": 108,
+    "country": "Germany",
+    "email": "ian.reusch@example.com",
+    "age": 52,
+    "mobile": "+91328688",
+    "role": "Prgrammer",
+    "salary": "8000",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/men/85.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
+    }
+    },
+    {
+    "gender": "male",
+    "name": "Monsieur",
+    "key": 109,
+    "country": "India",
+    "email": "ralf.thomas@example.com",
+    "age": 63,
+    "mobile": "+91328688",
+    "role": "Architect",
+    "salary": "9000",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/men/75.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+    }
+    },
+    {
+    "gender": "male",
+    "name": "Clarke",
+    "key": 110,
+    "country": "Japan",
+    "email": "luke.clarke@example.com",
+    "age": 65,
+    "mobile": "+91328689",
+    "role": "Developer",
+    "salary": "6000",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/men/40.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/40.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/40.jpg"
+    }
+    },
+    {
+    "gender": "female",
+    "name": "Vanderent",
+    "key": 111,
+    "country": "Nepal",
+    "email": "saadia.vanderbent@example.com",
+    "age": 67,
+    "mobile": "+91328690",
+    "role": "Prgrammer",
+    "salary": "1000",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/women/77.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/77.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/77.jpg"
+    }
+    },
+    {
+    "gender": "female",
+    "name": "Ainhoa",
+    "key": 112,
+    "country": "Brazil",
+    "email": "ainhoa.lima@example.com",
+    "age": 35,
+    "mobile": "+91328691",
+    "role": "Engineer",
+    "salary": "2000",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/women/68.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/68.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/68.jpg"
+    }
+    },
+    {
+    "gender": "male",
+    "name": "Savaşeus",
+    "key": 113,
+    "country": "Pakistan",
+    "email": "savas.geus@example.com",
+    "age": 25,
+    "mobile": "+91328692",
+    "role": "Developer",
+    "salary": "3000",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/men/73.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
+    }
+    },
+    {
+    "gender": "female",
+    "name": "Giraud",
+    "key": 114,
+    "country": "France",
+    "email": "melina.giraud@example.com",
+    "age": 56,
+    "mobile": "+91328693",
+    "role": "Engineer",
+    "salary": "4000",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/women/26.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/26.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/26.jpg"
+    }
+    },
+    {
+    "gender": "male",
+    "name": "Velasco",
+    "key": 115,
+    "country": "Spain",
+    "email": "pedro.velasco@example.com",
+    "age": 67,
+    "mobile": "+91328694",
+    "role": "Prgrammer",
+    "salary": "5000",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/men/84.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/84.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/84.jpg"
+    }
+    }
+    ]
