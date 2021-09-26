@@ -134,7 +134,7 @@
     "country": "India",
     "email": "ralf.thomas@example.com",
     "age": 63,
-    "mobile": "+91328688",
+    "mobile": "+91328697",
     "role": "Architect",
     "salary": "9000",
     "picture": {
@@ -239,4 +239,4 @@
     "thumbnail": "https://randomuser.me/api/portraits/thumb/men/84.jpg"
     }
     }
-    ]
+]
